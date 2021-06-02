@@ -2,6 +2,6 @@
 
 void main(void)
 {
-    printf("Jakub Szczepankiewicz, \n");
+    printf("Jakub Szczepankiewicz, \n" "Marcin Staskiewicz, \n");
 
 }
